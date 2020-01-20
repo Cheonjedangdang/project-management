@@ -1,5 +1,12 @@
 # project-management
 
+## 2020-01-31
+- [ ] ms.gg 프로젝트 구성하기
+  - https://github.com/Team-HST/reminder
+- [ ] ms.gg 프론트엔드 프로젝트 큰 틀 (레이아웃 기획하고 구현해놓기)
+
+---
+
 ## 2020-01-13
 #### Task
 - [x] 공부한 내용 정리용 git repository 만들기
