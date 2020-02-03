@@ -1,9 +1,12 @@
 # project-management
 
+## 2020-02-10
+- [ ] ms.gg 프론트엔드 홈 화면 기획
+
 ## 2020-01-31
-- [ ] ms.gg 프로젝트 구성하기
+- [x] ms.gg 프로젝트 구성하기
   - https://github.com/Team-HST/reminder
-- [ ] ms.gg 프론트엔드 프로젝트 큰 틀 (레이아웃 기획하고 구현해놓기)
+- [x] ms.gg 프론트엔드 프로젝트 큰 틀 (레이아웃 기획하고 구현해놓기)
 
 ---
 
